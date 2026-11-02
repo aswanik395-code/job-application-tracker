@@ -1,0 +1,32 @@
+JOB APPLICATION TRACKER REPORT
+Generated: 2026-11-02
+============================================================
+
+ALL APPLICATIONS
+------------------------------------------------------------
+Company       Role                      Status     Date
+TCS           Systems Engineer          Rejected   2026-08-10
+Amazon        SDE I                     Rejected   2026-08-15
+Zoho          Software Engineer         Selected   2026-08-28
+Google        Backend Engineer          Interview  2026-09-05
+Infosys       Python Developer          Interview  2026-09-12
+Flipkart      Full Stack Developer      Interview  2026-09-20
+Razorpay      Data Analyst              Applied    2026-10-01
+Freshworks    QA Automation Engineer    Applied    2026-10-18
+Swiggy        Backend Developer         Applied    2026-10-28
+Swiggy        Backend Developer         Applied    2026-10-28
+
+SUMMARY
+------------------------------------------------------------
+Total applications: 10
+
+Applications per status:
+  Applied    4
+  Interview  3
+  Selected   1
+  Rejected   2
+
+Currently at Interview stage:
+  - Google — Backend Engineer
+  - Infosys — Python Developer
+  - Flipkart — Full Stack Developer

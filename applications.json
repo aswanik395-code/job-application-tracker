@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Google",
+    "role": "Backend Engineer",
+    "status": "Interview",
+    "date": "2026-09-05"
+  },
+  {
+    "company": "Infosys",
+    "role": "Python Developer",
+    "status": "Interview",
+    "date": "2026-09-12"
+  },
+  {
+    "company": "Zoho",
+    "role": "Software Engineer",
+    "status": "Selected",
+    "date": "2026-08-28"
+  },
+  {
+    "company": "Amazon",
+    "role": "SDE I",
+    "status": "Rejected",
+    "date": "2026-08-15"
+  },
+  {
+    "company": "Razorpay",
+    "role": "Data Analyst",
+    "status": "Applied",
+    "date": "2026-10-01"
+  },
+  {
+    "company": "Flipkart",
+    "role": "Full Stack Developer",
+    "status": "Interview",
+    "date": "2026-09-20"
+  },
+  {
+    "company": "TCS",
+    "role": "Systems Engineer",
+    "status": "Rejected",
+    "date": "2026-08-10"
+  },
+  {
+    "company": "Freshworks",
+    "role": "QA Automation Engineer",
+    "status": "Applied",
+    "date": "2026-10-18"
+  },
+  {
+    "company": "Swiggy",
+    "role": "Backend Developer",
+    "status": "Applied",
+    "date": "2026-10-28"
+  },
+  {
+    "company": "Swiggy",
+    "role": "Backend Developer",
+    "status": "Applied",
+    "date": "2026-10-28"
+  }
+]
