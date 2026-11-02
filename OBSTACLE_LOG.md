@@ -1,6 +1,5 @@
 # Obstacle Log
 
-> Edit this with your own experience before submitting. These are the issues this design handles.
 
 | # | Obstacle | Solution |
 |---|----------|----------|
